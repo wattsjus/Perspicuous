@@ -1,0 +1,1 @@
+same logic as the public folder but the private files take higher precedence when logged in.

@@ -1,0 +1,1 @@
+Here you will create classes that will be used in the UI as ajax calls and can request the functions of the class (e.g. http://domain.com/api/ClassName/FunctionName)

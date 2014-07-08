@@ -1,0 +1,1 @@
+RewriteRule ^/?(.*)$ ../Security/proxy.php?base=api&q=$1&p=Service/webapi.inc [L,QSA]

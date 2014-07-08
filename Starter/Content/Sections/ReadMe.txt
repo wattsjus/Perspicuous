@@ -1,0 +1,1 @@
+Here you would create an .inc file that then you can insert into any view via <? Section(SectionName) ?> and SectionName is to be replaced with the filename minus .inc.

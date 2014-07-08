@@ -1,0 +1,6 @@
+<Files *.inc>
+    Order Deny,Allow
+    Deny from all
+</Files>
+RewriteCond %{REQUEST_URI} !-d
+RewriteRule (.*) redirector.php [QSA,L]
